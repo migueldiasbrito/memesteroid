@@ -1,0 +1,90 @@
+{
+    "name": "PowerUpActions",
+    "maps": [
+        {
+            "name": "PowerUp",
+            "id": "d190c39a-4738-4014-a36c-7df901c34037",
+            "actions": [
+                {
+                    "name": "PowerUp1",
+                    "type": "Button",
+                    "id": "0d421460-c78c-406b-84ba-77a79749b137",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PowerUp2",
+                    "type": "Button",
+                    "id": "59db1fd4-0bd9-4663-af82-edfa4d1dd747",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PowerUp3",
+                    "type": "Button",
+                    "id": "ecd986be-1bf2-448b-9f97-53efb70a11ec",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "PowerUp4",
+                    "type": "Button",
+                    "id": "4aac65c0-d3d2-4d7d-ae87-e81981265c34",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e54bea85-f95b-4e36-87dc-a5a9383db1f1",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PowerUp1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8406311b-feeb-4638-902e-b789a13bcc80",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PowerUp2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d1a1993c-7f94-4a45-ad13-b308953df77f",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PowerUp3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fe24d723-f2bb-4b28-83a1-8d36dfca7a83",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PowerUp4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
